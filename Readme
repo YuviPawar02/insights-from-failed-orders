@@ -1,13 +1,1 @@
-<h3>Insights from Failed Orders</h3>
 
-<h2>This project analyzes failed food delivery orders to find patterns in cancellations and rejections.</h2>
-
-<h3>Analysis Includes</h3>
-<h2>- Distribution of failures by reason (cancellations before/after driver, rejections).  
-- Hourly distribution of failed orders to spot peak failure times.  
-- Average time to cancellation (with/without driver).  
-- Distribution of ETA by hours. </h2>
-
-<h3>Tech Stack</h3>
-<h2>- Python, Pandas, NumPy  
-- Matplotlib, Seaborn</h2>
